@@ -2,7 +2,7 @@
 using namespace std;
 #define MAX 50
 
-
+/*
 template <class T>
 class bp{
 
@@ -26,5 +26,10 @@ T bp<T>::add(T p){
 int main(){
     bp<int> b(2,3);
     cout<< b.add(0)<<endl;
+    return 0;
+}
+*/
+int main(){
+    cout<<"enn"<<endl;
     return 0;
 }
